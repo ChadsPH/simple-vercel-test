@@ -54,7 +54,7 @@ export default function PortfolioCard() {
   "socials": {
     "facebook": "@chadivannillo",
     "instagram": "@chadivannillo",
-    "github": "@chadsPH"
+    "github": "@ChadsPH"
   }
 }`
 
